@@ -1,0 +1,4 @@
+1) Problem is to find fraud transaction using credit card.
+2) Data has total 30 features including transaction amount and time. Rest all are PCA values as the as is confidential.
+3) It is a complete imbalance data , so rather than accuracy as a performence measure i have used confusion matrix,Kappa score.
+4) Analyzing the business problem, Precision is more important than recall.                                               
